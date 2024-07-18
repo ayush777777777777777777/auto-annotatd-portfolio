@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Weather Pridiction App
+title: Weather Prediction App
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
