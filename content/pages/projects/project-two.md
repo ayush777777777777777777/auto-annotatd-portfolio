@@ -15,7 +15,7 @@ media:
   type: ImageBlock
   url: /images/weather pridiction.avif
   altText: Project image
-  caption: ffff
+  caption: ''
 ---
 This weather prediction app. Is made by me with using the API. This is one of the latest projects made by me.  The idea of making this weather prediction app is taken by ***Frontend Mentor.*** it is a great project to start with using API.
 
